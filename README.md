@@ -186,4 +186,4 @@ function scrollToSlide(index) {
 };
 ```
 ## Target e contesto d’uso
-Essendo un prodotto informativo, il target è piuttosto ampio ed il contesto d’uso si situa nella ricerca e scoperta individuale.
+Essendo un prodotto dal carattere informativo, il target è piuttosto ampio ed il contesto d’uso si situa nella ricerca e scoperta individuale.
