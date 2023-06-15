@@ -12,11 +12,11 @@ Come copywriting, lo spunto proviene dall'opera ed il teatro in generale, dove l
 L'interfaccia si presenta come 4 sezioni che raccontano ognuno un lato differente del sapone. 
 <img width="500" alt="Screenshot 2023-06-15 alle 18 27 24" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/76eaff4a-bb11-4794-b938-3b051ce6ea60">
 <img width="500" alt="Screenshot 2023-06-15 alle 18 27 34 2" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/bf3033c5-fa2e-4e90-87f8-1a9497628893">
-<img width="1904" alt="Screenshot 2023-06-15 alle 18 32 00" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/aa82da95-af72-429c-b163-2631faf8c0a7">
+<img width="500" alt="Screenshot 2023-06-15 alle 18 32 00" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/aa82da95-af72-429c-b163-2631faf8c0a7">
 <img width="500" alt="Screenshot 2023-06-15 alle 18 27 38" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/9db44820-343a-417b-bc40-390c0a2e251b">
-<img width="1904" alt="Screenshot 2023-06-15 alle 18 32 19" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/081f33ff-25d9-48d6-99ec-3d9dfcda563d">
-<img width="50" alt="Screenshot 2023-06-15 alle 18 27 42" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/267edb23-bd07-45f9-9a30-9532a4db02e9">
-<img width="1904" alt="Screenshot 2023-06-15 alle 18 32 38" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/3f1ebaf3-fdbb-4852-9a0f-39a8052e1b23">
+<img width="500" alt="Screenshot 2023-06-15 alle 18 32 19" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/081f33ff-25d9-48d6-99ec-3d9dfcda563d">
+<img width="500" alt="Screenshot 2023-06-15 alle 18 27 42" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/267edb23-bd07-45f9-9a30-9532a4db02e9">
+<img width="500" alt="Screenshot 2023-06-15 alle 18 32 38" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/3f1ebaf3-fdbb-4852-9a0f-39a8052e1b23">
 
 
 ## Tecnologia utilizzata
