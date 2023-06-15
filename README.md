@@ -9,7 +9,8 @@ Come copywriting, lo spunto proviene dall'opera ed il teatro in generale, dove l
 
 
 ## Design dell’interfaccia e modalità di interazione
-L'interfaccia si presenta come 4 sezioni che raccontano ognuno un lato differente del sapone. 
+L'interfaccia si presenta come 4 sezioni che raccontano ognuno un lato differente del sapone. L'interazione è limitata al cambiare sezione.
+Il progetto completo come visualizzato comprende la saponetta che segue il mouse e le immagini del sito che devono essere pulite.
 <img width="500" alt="Screenshot 2023-06-15 alle 18 27 24" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/76eaff4a-bb11-4794-b938-3b051ce6ea60">
 <img width="500" alt="Screenshot 2023-06-15 alle 18 27 34 2" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/bf3033c5-fa2e-4e90-87f8-1a9497628893">
 <img width="500" alt="Screenshot 2023-06-15 alle 18 32 00" src="https://github.com/Moodyl/Soap-Opera/assets/101795037/aa82da95-af72-429c-b163-2631faf8c0a7">
@@ -33,8 +34,6 @@ Il sito utilizza degli iframe disposti in orizzontale grazie al flexbox...
 ```
 
 ... e dispone di elementi link che permettono di navigare i vari iframe individualmente.
-
-Le pagine individuali hanno una struttura composta principalmente da griglie.
 
 ```html
 <a href="https://ixd-supsi.github.io/2023/progetti/2_antologia_a_due_mani/" id="index">
@@ -82,8 +81,27 @@ Le pagine individuali hanno una struttura composta principalmente da griglie.
         Next Act
     </a>
 ```
+Le pagine individuali hanno una struttura composta principalmente da griglie.
+```css
+div.column-grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    column-gap: 20px;
+    padding: 100px 50px;
+    position: relative;
+    grid-auto-flow: auto;
+}
 
-Questo pezzo di codice tiene conto della posizione degli iframe e cambia la visibilità dei link a dipendenza del iframe nel quale si è.
+div.column-row-grid {
+    display: grid;
+    grid-template: 1fr 1fr / repeat(8, 1fr);
+    column-gap: 20px;
+    padding: 100px 50px;
+    position: relative;
+    grid-auto-flow: auto;
+}
+```
+Questo codice tiene conto della posizione degli iframe e cambia la visibilità dei link a dipendenza del iframe nel quale si è.
 
 ```js
 main.addEventListener('scroll', () => {
@@ -168,4 +186,4 @@ function scrollToSlide(index) {
 };
 ```
 ## Target e contesto d’uso
-Essendo un prodotto informativo, il target è piuttosto ampio (ma specialmente adatto ad un pubblico giovane) ed il contesto d’uso si situa nella ricerca e scoperta individuale.
+Essendo un prodotto informativo, il target è piuttosto ampio ed il contesto d’uso si situa nella ricerca e scoperta individuale.
