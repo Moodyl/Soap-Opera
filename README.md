@@ -1,4 +1,13 @@
+SUPSI 2022-23  
+Corso d’interaction design, CV427.01  
+Docenti: A. Gysin, G. Profeta  
+
+Elaborato 2: Antologia a due mani
+
 # Documentazione - Soap Opera
+Autore: Lauro Gianella  
+[Soap Opera](https://moodyl.github.io/Kirby-s-Webcam-Bonanza/)
+
 Il progetto consiste in un sito "antologico" riguardo alle mani e la loro relazione con la saponetta e l'atto di lavare le mani. Questa pagina espone la storia, il funzionamento, il movimento e l'iconografia della saponetta.
 
 
