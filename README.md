@@ -4,7 +4,7 @@ Docenti: A. Gysin, G. Profeta
 
 Elaborato 2: Antologia a due mani
 
-# Documentazione - Soap Opera
+# Soap Opera
 Autore: Lauro Gianella  
 [Soap Opera](https://moodyl.github.io/Kirby-s-Webcam-Bonanza/)
 
