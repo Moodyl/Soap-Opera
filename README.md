@@ -6,7 +6,7 @@ Elaborato 2: Antologia a due mani
 
 # Soap Opera
 Autore: Lauro Gianella  
-[Soap Opera](https://moodyl.github.io/Kirby-s-Webcam-Bonanza/)
+[Soap Opera](https://moodyl.github.io/Soap-Opera/)
 
 Il progetto consiste in un sito "antologico" riguardo alle mani e la loro relazione con la saponetta e l'atto di lavare le mani. Questa pagina espone la storia, il funzionamento, il movimento e l'iconografia della saponetta.
 
